@@ -34,7 +34,7 @@
     "lang_block": "main",
     "description": "Дизайн Android-интерфейсов продукта, поддержка дизайн-системы; вакансия прямо указывает работу в сильной русскоязычной команде, официальное трудоустройство по сербскому законодательству.",
     "first_seen": "2026-07-01",
-    "last_seen": "2026-07-15",
+    "last_seen": "2026-07-22",
     "status": "active",
     "ever_sent": true
   },
@@ -61,7 +61,7 @@
     "description": "Проектирование пользовательских сценариев для web и mobile, A/B-тестирование, дизайн-система в Figma; компания работает в high-risk сегменте (маркетинг).",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-15",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -126,7 +126,7 @@
     "description": "iGaming-компания: дизайн игровых интерфейсов, полностью удалённый формат работы из любой точки мира, гибкое начало дня.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-15",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -138,7 +138,7 @@
     "lang_block": "main",
     "description": "Игровая студия Nekki (Shadow Fight Arena, Shadow Fight 3): UI-дизайнер направления LiveOps, полностью удалённый формат, 10:00–19:00 GMT+3.",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-15",
+    "last_seen": "2026-07-22",
     "status": "active",
     "ever_sent": true
   },
@@ -193,5 +193,135 @@
     "last_seen": "2026-07-08",
     "status": "closed",
     "ever_sent": true
+  },
+  {
+    "company": "Vide Infra",
+    "position": "UX/UI Designer (Middle)",
+    "location": "Удалённо, из любой точки мира",
+    "url": "https://designer.ru/u/vide-infra-v-poiskakh-ux-ui-dizaynera-na-udalenku/",
+    "language": "English — желательно (nice to have, указано в вакансии)",
+    "lang_block": "main",
+    "description": "Международное диджитал-агентство (офисы в Риге и Москве, топ-10 креативных агентств Рунета): UX/UI-дизайн цифровых продуктов для глобальных клиентов, Middle, полный день удалённо.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "The Coach",
+    "position": "Дизайнер креативов (статика/видео)",
+    "location": "Удалённо (компания базируется на Кипре)",
+    "url": "https://cyprus.hh.ru/vacancy/134993312",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Wellness-приложение о отношениях и близости (Кипр): креативы статика/видео для Meta Ads с использованием AI-инструментов, полностью удалённо, от $1500/мес.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Brickworks Games LTD",
+    "position": "Motion Designer / Видео-дизайнер",
+    "location": "Удалённо (компания базируется на Кипре)",
+    "url": "https://cyprus.hh.ru/vacancy/135190441",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Игровая студия на Кипре (Grim Soul, Cyberika): моушн/видео-дизайнер для gamedev на аутсорс/фриланс, гибкий график, удалённо.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "5Reasons",
+    "position": "Web UI/UX Designer",
+    "location": "Удалённо (компания базируется в Тбилиси, Грузия)",
+    "url": "https://headhunter.ge/vacancy/135440100",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Международное маркетинговое агентство в Тбилиси (7+ лет на рынке): Web UI/UX-дизайнер, полностью удалённо, оплата в EUR.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Genesis Group AG",
+    "position": "Graphic/Communication/Digital Designer",
+    "location": "Тбилиси, Грузия / удалённо (100%)",
+    "url": "https://headhunter.ge/vacancy/135121223",
+    "language": "English B1+ — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Международная eSIM-компания (операции в 200+ странах, Тбилиси): графический/коммуникационный/диджитал-дизайнер, 100% удалённо; вакансия требует русский C2 (носитель).",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "ОсОО Тру Айти (True IT)",
+    "position": "UX/UI Designer (фриланс/удалённо)",
+    "location": "Тбилиси, Грузия / удалённо (фриланс)",
+    "url": "https://headhunter.ge/vacancy/135223608",
+    "language": "English — желательно (nice to have, указано в вакансии)",
+    "lang_block": "main",
+    "description": "IT-компания из Кыргызстана (офис в Тбилиси) для клиентов США/Канады/Европы: UX/UI-дизайнер на фрилансе, вечерне-ночной гибкий график.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Tinkers",
+    "position": "Product Designer",
+    "location": "Удалённо, из любой страны",
+    "url": "https://headhunter.ge/vacancy/134213787",
+    "language": "English B2 (Upper Intermediate) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Небольшая продуктовая техкомпания (Norka VPN, Postme): продуктовый дизайнер, полностью удалённо из любой страны; вакансия требует русский C2 (носитель).",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "STARTRIBE LTD",
+    "position": "Графический дизайнер",
+    "location": "Тбилиси, Грузия / удалённо",
+    "url": "https://headhunter.ge/vacancy/134905193",
+    "language": "English — уровень рабочей коммуникации (указано в вакансии)",
+    "lang_block": "main",
+    "description": "Международная iGaming/B2B продуктовая компания: графический дизайнер, портфолио в iGaming/gambling желательно, полностью удалённо.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "STARTRIBE LTD",
+    "position": "UI Designer (iGaming)",
+    "location": "Белград, Сербия / удалённо, из любой точки мира",
+    "url": "https://serbia.hh.ru/vacancy/135275745",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "iGaming-компания: UI-дизайнер игровых интерфейсов (Figma, Rive, Spine), возможность работать из любой точки мира, 5/2 график.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Employcity",
+    "position": "UI/UX Designer",
+    "location": "Белград, Сербия (офис, ВНЖ от компании)",
+    "url": "https://serbia.hh.ru/vacancy/135029219",
+    "language": "English A2-B1 — желательно (nice to have, указано в вакансии)",
+    "lang_block": "main",
+    "description": "Международная продуктовая IT-компания (высоконагруженные развлекательные сервисы): UI/UX-дизайнер, офис в Белграде, помощь с оформлением ВНЖ.",
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "status": "active",
+    "ever_sent": false
   }
 ]

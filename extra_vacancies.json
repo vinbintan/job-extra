@@ -35,7 +35,7 @@
     "description": "Дизайн Android-интерфейсов продукта, поддержка дизайн-системы; вакансия прямо указывает работу в сильной русскоязычной команде, официальное трудоустройство по сербскому законодательству.",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-15",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -61,7 +61,7 @@
     "description": "Проектирование пользовательских сценариев для web и mobile, A/B-тестирование, дизайн-система в Figma; компания работает в high-risk сегменте (маркетинг).",
     "first_seen": "2026-07-01",
     "last_seen": "2026-07-15",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -126,7 +126,7 @@
     "description": "iGaming-компания: дизайн игровых интерфейсов, полностью удалённый формат работы из любой точки мира, гибкое начало дня.",
     "first_seen": "2026-07-08",
     "last_seen": "2026-07-15",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -138,7 +138,7 @@
     "lang_block": "main",
     "description": "Игровая студия Nekki (Shadow Fight Arena, Shadow Fight 3): UI-дизайнер направления LiveOps, полностью удалённый формат, 10:00–19:00 GMT+3.",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-07-15",
+    "last_seen": "2026-08-05",
     "status": "active",
     "ever_sent": true
   },
@@ -193,5 +193,44 @@
     "last_seen": "2026-07-08",
     "status": "closed",
     "ever_sent": true
+  },
+  {
+    "company": "The Coach",
+    "position": "Дизайнер креативов (статика/видео)",
+    "location": "Удалённо (компания базируется на Кипре)",
+    "url": "https://cyprus.hh.ru/vacancy/134993312",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Lifestyle-приложение для мужчин (спорт, питание, сон, здоровье): дизайнер креативов — статика и видео для соцсетей и рекламы, опыт 1–3 года, AI-инструменты (Runway/CapCut/Premiere), полностью удалённо.",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Brickworks Games",
+    "position": "Motion Designer / Видео-дизайнер",
+    "location": "Удалённо (компания базируется в Лимассоле, Кипр)",
+    "url": "https://cyprus.hh.ru/vacancy/135190441",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Игровая студия (Grim Soul, Cyberika, 45М+ игроков): моушн/видео-дизайнер для рекламных роликов в играх, Unity/Blender/Adobe, аутсорс-формат (ГПХ/самозанятость), от 2 лет опыта.",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "Windy.App",
+    "position": "Дизайнер маркетинга и мобильных приложений (Middle)",
+    "location": "Удалённо (worldwide, GMT+3)",
+    "url": "https://designer.ru/u/windy-app-ishchet-dizaynera-na-marketing-i-mobilnye-prilozheniya/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Погодное приложение для аутдор-активностей (25М+ установок): дизайнер маркетинговых материалов и мобильных экранов, Figma, опыт с нейросетями для генерации изображений/видео, полностью удалённо.",
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "status": "active",
+    "ever_sent": false
   }
 ]

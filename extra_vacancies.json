@@ -137,8 +137,9 @@
     "language": "не указан",
     "lang_block": "main",
     "description": "Игровая студия Nekki (Shadow Fight Arena, Shadow Fight 3): UI-дизайнер направления LiveOps, полностью удалённый формат, 10:00–19:00 GMT+3.",
+    "posted_date": "2026-07-30",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-12",
     "status": "active",
     "ever_sent": true
   },
@@ -202,9 +203,10 @@
     "language": "не указан",
     "lang_block": "main",
     "description": "Lifestyle-приложение для мужчин (спорт, питание, сон, здоровье): дизайнер креативов — статика и видео для соцсетей и рекламы, опыт 1–3 года, AI-инструменты (Runway/CapCut/Premiere), полностью удалённо.",
+    "posted_date": null,
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-05",
-    "status": "active",
+    "status": "closed",
     "ever_sent": false
   },
   {
@@ -215,10 +217,11 @@
     "language": "не указан",
     "lang_block": "main",
     "description": "Игровая студия (Grim Soul, Cyberika, 45М+ игроков): моушн/видео-дизайнер для рекламных роликов в играх, Unity/Blender/Adobe, аутсорс-формат (ГПХ/самозанятость), от 2 лет опыта.",
+    "posted_date": "2026-07-14",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-12",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Windy.App",
@@ -228,9 +231,38 @@
     "language": "не указан",
     "lang_block": "main",
     "description": "Погодное приложение для аутдор-активностей (25М+ установок): дизайнер маркетинговых материалов и мобильных экранов, Figma, опыт с нейросетями для генерации изображений/видео, полностью удалённо.",
+    "posted_date": "2026-06-30",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-05",
+    "last_seen": "2026-08-12",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
+  },
+  {
+    "company": "Axlebolt (Standoff 2)",
+    "position": "Графический дизайнер (gamedev)",
+    "location": "Удалённо",
+    "url": "https://serbia.hh.ru/vacancy/135651612",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Разработчик мобильной игры Standoff 2 (300М+ загрузок, 20М+ активных игроков): графический дизайнер в геймдев-направлении, полностью удалённый формат работы, есть помощь с переездом по желанию.",
+    "posted_date": "2026-07-28",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Made of Storm",
+    "position": "Product Creative Manager",
+    "location": "Сербия (удалённо)",
+    "url": "https://serbia.hh.ru/vacancy/135519315",
+    "language": "English B2 — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Компания с офисами в Москве и Сербии: креативная роль на стыке брендинга, дизайна и продуктовых задач — разработка бренд-концептов и визуальной идентичности.",
+    "posted_date": "2026-07-23",
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "status": "active",
+    "ever_sent": true
   }
 ]

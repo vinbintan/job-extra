@@ -139,7 +139,7 @@
     "description": "Игровая студия Nekki (Shadow Fight Arena, Shadow Fight 3): UI-дизайнер направления LiveOps, полностью удалённый формат, 10:00–19:00 GMT+3.",
     "posted_date": "2026-07-30",
     "first_seen": "2026-07-08",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-19",
     "status": "active",
     "ever_sent": true
   },
@@ -220,7 +220,7 @@
     "posted_date": "2026-07-14",
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-12",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -233,7 +233,7 @@
     "description": "Погодное приложение для аутдор-активностей (25М+ установок): дизайнер маркетинговых материалов и мобильных экранов, Figma, опыт с нейросетями для генерации изображений/видео, полностью удалённо.",
     "posted_date": "2026-06-30",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-19",
     "status": "active",
     "ever_sent": true
   },
@@ -247,7 +247,7 @@
     "description": "Разработчик мобильной игры Standoff 2 (300М+ загрузок, 20М+ активных игроков): графический дизайнер в геймдев-направлении, полностью удалённый формат работы, есть помощь с переездом по желанию.",
     "posted_date": "2026-07-28",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-19",
     "status": "active",
     "ever_sent": true
   },
@@ -261,8 +261,36 @@
     "description": "Компания с офисами в Москве и Сербии: креативная роль на стыке брендинга, дизайна и продуктовых задач — разработка бренд-концептов и визуальной идентичности.",
     "posted_date": "2026-07-23",
     "first_seen": "2026-08-12",
-    "last_seen": "2026-08-12",
+    "last_seen": "2026-08-19",
     "status": "active",
     "ever_sent": true
+  },
+  {
+    "company": "Darksy",
+    "position": "UX/UI Designer (мобильные приложения)",
+    "location": "Удалённо (worldwide)",
+    "url": "https://d-pub.ru/vacancies/dizajn/dizayner_1575",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Компания разработки и продвижения мобильных приложений (Darksy Cleaner и др., iOS): UX/UI-дизайнер для мобильных интерфейсов, опыт от 1 года, полностью удалённо, оплата от $750 в USDT.",
+    "posted_date": "2026-08-18",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "status": "active",
+    "ever_sent": false
+  },
+  {
+    "company": "6grain",
+    "position": "UI/UX Designer (веб-аналитика)",
+    "location": "Удалённо (worldwide)",
+    "url": "https://d-pub.ru/vacancies/dizajn/dizayner_1399",
+    "language": "English B2 — желательно (nice to have, указано в вакансии)",
+    "lang_block": "main",
+    "description": "Русскоязычная компания 6grain разрабатывает веб-аналитику для агросектора (спутниковые/погодные/геоданные) для клиентов в Африке: UI/UX-дизайнер дашбордов и B2B/SaaS-интерфейсов, проектный формат, удалённо.",
+    "posted_date": "2026-08-07",
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-19",
+    "status": "active",
+    "ever_sent": false
   }
 ]

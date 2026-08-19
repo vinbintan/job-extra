@@ -277,7 +277,7 @@
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "6grain",
@@ -291,6 +291,6 @@
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   }
 ]

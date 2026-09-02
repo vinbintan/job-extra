@@ -140,7 +140,7 @@
     "posted_date": "2026-07-30",
     "first_seen": "2026-07-08",
     "last_seen": "2026-08-26",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -234,7 +234,7 @@
     "posted_date": "2026-06-30",
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-26",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -248,7 +248,7 @@
     "posted_date": "2026-07-28",
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-26",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -275,7 +275,7 @@
     "description": "Международная игровая корпорация GDEV: 3D motion-дизайн рекламных креативов в Unreal Engine, проектная оплата $600–1000 за креатив, полностью удалённо без географических ограничений.",
     "posted_date": "2026-08-11",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   },
@@ -289,7 +289,7 @@
     "description": "Международный портал для трейдинга скинов CS2: part-time UX/UI-дизайнер, оплата в USD/крипте ежемесячно, полностью удалённая работа.",
     "posted_date": "2026-08-25",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   },
@@ -303,7 +303,7 @@
     "description": "Дизайн-студия Brele (арт-директор и партнёр Андрей): продуктовый дизайн для международных проектов, работать можно из любой точки мира.",
     "posted_date": "2026-08-19",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   },
@@ -317,7 +317,7 @@
     "description": "Диджитал-агентство Panda Digital: графический дизайн, полностью удалённая работа «неважно откуда вы», тестовое задание, портфолио обязательно.",
     "posted_date": "2026-08-21",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   },
@@ -331,7 +331,7 @@
     "description": "Rail Monsters: техническая роль UX/UI-дизайнера, удалённая работа с оплатой на счёт/карту вне России, команда полностью русскоговорящая.",
     "posted_date": "2026-08-02",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   },
@@ -345,7 +345,49 @@
     "description": "Международное агентство Vide Infra (офисы в Риге и Москве): UX/UI-дизайн, полностью удалённая работа, оплата в любой стране.",
     "posted_date": "2026-07-20",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-09-02",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Family (creative.family)",
+    "position": "SMM-дизайнер, Middle",
+    "location": "Удалённо (гибрид доступен для Москвы, но удалёнка без гео-ограничений)",
+    "url": "https://designer.ru/u/family-ishchet-middle-smm-dizaynera/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Креативное агентство (клиенты: ВТБ, L'Oreal Paris, Unilever, Avito, СДЭК): графика для соцсетей в Figma/Photoshop/After Effects/нейросетях, key visuals, баннеры, короткие видео.",
+    "posted_date": "2026-08-03",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Thesis",
+    "position": "UX/UI-дизайнер, Middle (part-time)",
+    "location": "Удалённо (без географических ограничений)",
+    "url": "https://designer.ru/u/thesis-ishchet-ux-ui-dizaynera-part-time/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Дизайн-агентство Thesis ищет UX/UI-дизайнера на проектной основе: один долгосрочный проект + доп. агентские задачи, оплата почасовая, официальное оформление.",
+    "posted_date": "2026-07-27",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "БК Олимп (Olimpbet.kz)",
+    "position": "Графический дизайнер, Middle+/Senior",
+    "location": "Удалённо или офис (Алматы, Казахстан)",
+    "url": "https://designer.ru/u/netbet-ishchet-graficheskogo-dizaynera-v-marketingovuyu-komandu/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Один из крупнейших букмекерских брендов Казахстана (olimpbet.kz) ищет графического дизайнера в маркетинговую команду; Figma/Photoshop/Illustrator, желательны Blender/C4D/After Effects.",
+    "posted_date": "2026-07-09",
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
     "status": "active",
     "ever_sent": true
   }

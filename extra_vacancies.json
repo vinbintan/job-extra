@@ -276,7 +276,7 @@
     "posted_date": "2026-08-11",
     "first_seen": "2026-08-26",
     "last_seen": "2026-09-02",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -289,7 +289,7 @@
     "description": "Международный портал для трейдинга скинов CS2: part-time UX/UI-дизайнер, оплата в USD/крипте ежемесячно, полностью удалённая работа.",
     "posted_date": "2026-08-25",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -303,7 +303,7 @@
     "description": "Дизайн-студия Brele (арт-директор и партнёр Андрей): продуктовый дизайн для международных проектов, работать можно из любой точки мира.",
     "posted_date": "2026-08-19",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -317,7 +317,7 @@
     "description": "Диджитал-агентство Panda Digital: графический дизайн, полностью удалённая работа «неважно откуда вы», тестовое задание, портфолио обязательно.",
     "posted_date": "2026-08-21",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -331,7 +331,7 @@
     "description": "Rail Monsters: техническая роль UX/UI-дизайнера, удалённая работа с оплатой на счёт/карту вне России, команда полностью русскоговорящая.",
     "posted_date": "2026-08-02",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -345,7 +345,7 @@
     "description": "Международное агентство Vide Infra (офисы в Риге и Москве): UX/UI-дизайн, полностью удалённая работа, оплата в любой стране.",
     "posted_date": "2026-07-20",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -359,7 +359,7 @@
     "description": "Креативное агентство (клиенты: ВТБ, L'Oreal Paris, Unilever, Avito, СДЭК): графика для соцсетей в Figma/Photoshop/After Effects/нейросетях, key visuals, баннеры, короткие видео.",
     "posted_date": "2026-08-03",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -373,7 +373,7 @@
     "description": "Дизайн-агентство Thesis ищет UX/UI-дизайнера на проектной основе: один долгосрочный проект + доп. агентские задачи, оплата почасовая, официальное оформление.",
     "posted_date": "2026-07-27",
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   },
@@ -388,6 +388,76 @@
     "posted_date": "2026-07-09",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-02",
+    "status": "closed",
+    "ever_sent": true
+  },
+  {
+    "company": "NDA (игровые кейсы/скины)",
+    "position": "Графический дизайнер (Gaming/iGaming), Middle",
+    "location": "Удалённо (без гео-ограничений)",
+    "url": "https://designer.ru/u/ishchem-graficheskogo-dizaynera-gaming-igaming-na-udalenku/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Быстрорастущая компания в нише игровых скинов (кейсы, апгрейд скинов): визуал для соцсетей, ИИ-инструменты, компания не раскрывает название на этапе отклика.",
+    "posted_date": "2026-08-19",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Report Design",
+    "position": "Дизайнер годовых отчётов (Middle/Senior)",
+    "location": "Удалённо (без гео-ограничений)",
+    "url": "https://designer.ru/u/report-design-ishchet-dizaynera-godovykh-otchetov/",
+    "language": "English (уровень чтения и понимания) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Агентство Report Design ищет дизайнера годовых и ESG-отчётов, корпоративной айдентики и презентаций в InDesign/Adobe Suite.",
+    "posted_date": "2026-08-11",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Твоя Полка",
+    "position": "Коммуникационный дизайнер, Middle",
+    "location": "Удалённо (график по мск)",
+    "url": "https://designer.ru/u/tvoya-polka-ishchet-kommunikatsionnogo-dizaynera/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Маркетплейс товаров хендмейд/винтаж: разработка фирменного стиля и единой дизайн-системы для печатных и digital-материалов.",
+    "posted_date": "2026-08-06",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Твоя Полка",
+    "position": "Креативный дизайнер, Middle",
+    "location": "Удалённо (график по мск)",
+    "url": "https://designer.ru/u/tvoya-polka-ishchet-kreativnogo-dizaynera/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Маркетплейс товаров хендмейд/винтаж: дизайн упаковки СТМ, мерч и печатные материалы.",
+    "posted_date": "2026-08-06",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "status": "active",
+    "ever_sent": true
+  },
+  {
+    "company": "Pragmatica",
+    "position": "Дизайнер на B2C-проект (игры), Middle",
+    "location": "Удалённо (весь мир)",
+    "url": "https://designer.ru/u/pragmatica-ishchet-dizaynera-na-proekt-v-b2c-svyazannyy-s-igrami/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Дизайн-студия Pragmatica: разработка игр и мини-приложений, яркий эмоциональный UI/UX, игровые механики, генерация контента через ИИ.",
+    "posted_date": "2026-07-24",
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
     "status": "active",
     "ever_sent": true
   }

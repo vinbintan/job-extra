@@ -289,7 +289,7 @@
     "description": "Международный портал для трейдинга скинов CS2: part-time UX/UI-дизайнер, оплата в USD/крипте ежемесячно, полностью удалённая работа.",
     "posted_date": "2026-08-25",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -303,7 +303,7 @@
     "description": "Дизайн-студия Brele (арт-директор и партнёр Андрей): продуктовый дизайн для международных проектов, работать можно из любой точки мира.",
     "posted_date": "2026-08-19",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -317,7 +317,7 @@
     "description": "Диджитал-агентство Panda Digital: графический дизайн, полностью удалённая работа «неважно откуда вы», тестовое задание, портфолио обязательно.",
     "posted_date": "2026-08-21",
     "first_seen": "2026-08-26",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -332,7 +332,7 @@
     "posted_date": "2026-08-02",
     "first_seen": "2026-08-26",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -360,7 +360,7 @@
     "posted_date": "2026-08-03",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -374,7 +374,7 @@
     "posted_date": "2026-07-27",
     "first_seen": "2026-09-02",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -401,7 +401,7 @@
     "description": "Быстрорастущая компания в нише игровых скинов (кейсы, апгрейд скинов): визуал для соцсетей, ИИ-инструменты, компания не раскрывает название на этапе отклика.",
     "posted_date": "2026-08-19",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -410,12 +410,12 @@
     "position": "Дизайнер годовых отчётов (Middle/Senior)",
     "location": "Удалённо (без гео-ограничений)",
     "url": "https://designer.ru/u/report-design-ishchet-dizaynera-godovykh-otchetov/",
-    "language": "English (уровень чтения и понимания) — указано в вакансии",
+    "language": "English — чтение и понимание — указано в вакансии",
     "lang_block": "foreign",
     "description": "Агентство Report Design ищет дизайнера годовых и ESG-отчётов, корпоративной айдентики и презентаций в InDesign/Adobe Suite.",
     "posted_date": "2026-08-11",
     "first_seen": "2026-09-09",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -430,7 +430,7 @@
     "posted_date": "2026-08-06",
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -444,7 +444,7 @@
     "posted_date": "2026-08-06",
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -472,7 +472,7 @@
     "posted_date": "2026-09-11",
     "first_seen": "2026-09-16",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "closed",
     "ever_sent": true
   },
   {
@@ -485,7 +485,7 @@
     "description": "Intently — агентство моушен product-видео для финтеха, крипто и Web3: визуальный стиль и раскадровки для motion-видео.",
     "posted_date": "2026-09-10",
     "first_seen": "2026-09-16",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
     "ever_sent": true
   },
@@ -499,9 +499,9 @@
     "description": "Siran (владеет европейской сетью кофеен Cafe Fino France и tech-компанией): развитие визуальных концепций брендов, брендбуки, графические материалы для рынков России и Европы.",
     "posted_date": "2026-09-22",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "kidstory.kzt",
@@ -513,9 +513,9 @@
     "description": "kidstory.kzt — персонализированные детские мультфильмы: работа с нейросетями для генерации изображений/видео, доступы к AI-инструментам и обучение от компании.",
     "posted_date": "2026-09-17",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Beetbarrel",
@@ -527,9 +527,9 @@
     "description": "Финтех-компания Beetbarrel: дизайн порталов, маркетинговых лендингов и личных кабинетов; команда работает по московскому времени, локация не ограничена.",
     "posted_date": "2026-09-16",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "INSTAT",
@@ -541,9 +541,9 @@
     "description": "Дизайн-студия INSTAT (арт-директор Сергей Оршак): требуется портфолио от 5 коммерческих проектов, оформление через ИП, график по МСК.",
     "posted_date": "2026-09-16",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Rambler&Co (Афиша)",
@@ -555,9 +555,9 @@
     "description": "Сервис «Афиша» (Rambler&Co): дизайн интерфейсов для e-commerce направления, продуктовое мышление, работа с метриками и трейдоффами.",
     "posted_date": "2026-09-08",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Диамас",
@@ -569,22 +569,22 @@
     "description": "Диамас (spectro.ru, B2B-продажа спектрального оборудования): редизайн сайта в Figma — типографика, сетка, адаптивные версии; только авторская работа без AI-генерации.",
     "posted_date": "2026-09-11",
     "first_seen": "2026-09-23",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-07",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Obel (Versions)",
     "position": "Product/Interface Designer, Middle",
     "location": "Удалённо (без гео-ограничений)",
     "url": "https://designer.ru/u/obel-ishchet-v-komandu-product-interface-dizaynera-na-udalenku/",
-    "language": "English — уверенный уровень (рабочий и разговорный, ежедневное общение), указано в вакансии",
+    "language": "English — уверенный, разговорный, ежедневное общение — указано в вакансии",
     "lang_block": "foreign",
     "description": "Международная команда Obel/Versions: продуктовый/интерфейсный дизайн для проекта крупного банка на Ближнем Востоке, полная занятость на 3 месяца.",
-    "posted_date": "2026-09-22",
+    "posted_date": "2026-09-29",
     "first_seen": "2026-09-23",
     "last_seen": "2026-09-23",
-    "status": "active",
+    "status": "excluded",
     "ever_sent": false
   }
 ]
